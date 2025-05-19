@@ -20,17 +20,23 @@ Create the following diagrams in StarUML:
 
 # DIAGRAMS:
 # Usecase Diagram:
-![Screenshot 2025-05-15 232538](https://github.com/user-attachments/assets/d3b8b109-182c-4319-8121-810c13d272b8)
+![Screenshot 2025-05-19 112412](https://github.com/user-attachments/assets/52574b18-4693-4b4e-beaa-828f4d49c598)
+
 # Class Diagram:
-![Screenshot 2025-05-15 232614](https://github.com/user-attachments/assets/54300adc-743c-4746-a550-a7c55f12fdb0)
+![Screenshot 2025-05-19 112125](https://github.com/user-attachments/assets/382c485c-d6d7-4068-8d42-a2c4d3244bea)
+
 # Activity Diagram:
-![Screenshot 2025-05-15 232707](https://github.com/user-attachments/assets/87e81b68-99c0-4a2b-911b-d9d9759c4b35)
+![Screenshot 2025-05-19 111650](https://github.com/user-attachments/assets/b647cb95-af52-4279-a760-e77b30f30433)
+
 # Communication Diagram:
-![Screenshot 2025-05-15 232744](https://github.com/user-attachments/assets/0e77d37f-9129-4ffa-a92f-d0570fac387d)
+![Screenshot 2025-05-19 112201](https://github.com/user-attachments/assets/d2b645f4-ced0-4266-b106-83c27dd9ea8e)
+
 # Package Diagram:
-![Screenshot 2025-05-15 232815](https://github.com/user-attachments/assets/2c0c4897-274c-4c1b-a381-b3ae73e34954)
+![Screenshot 2025-05-19 112239](https://github.com/user-attachments/assets/c70f742a-1105-421e-8a12-737d4a44a267)
+
 # Sequence Diagram:
-![Screenshot 2025-05-15 232846](https://github.com/user-attachments/assets/2a46b154-f99f-455c-9283-94bcbf39f6d8)
+![Screenshot 2025-05-19 112305](https://github.com/user-attachments/assets/66e764f9-60ad-4169-9cf1-0cb9cbb50cba)
+
 # RESULT:
 Thus the Hospital management system project was executed and the output was verified.
 
